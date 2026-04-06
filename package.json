@@ -1,0 +1,12 @@
+{
+  "name": "bot-chat-triagem",
+  "version": "1.0.0",
+  "description": "Sistema de Triagem Médica - Chatbot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
